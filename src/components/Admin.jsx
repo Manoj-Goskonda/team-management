@@ -18,6 +18,8 @@ const Admin = () => {
 
     const deleteUser = async (id) => {
         await axios.delete(`http://localhost:3002/users/${id}`);
+        const updatedRecords = data.filter(record => !selectedIds.includes(record.id));
+        setData(updatedRecords);
         loadUsers();
     };
 

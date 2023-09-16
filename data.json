@@ -1,6 +1,108 @@
 {
   "users": [
     {
+      "id": 0,
+      "name": "Dwight Botsford",
+      "userName": "dwight34",
+      "avatar": "https://i.pravatar.cc/150?u=dwightbotsford",
+      "isActive": true,
+      "role": "Marketing Manager",
+      "email": "dwight.botsford28@untitled.ui",
+      "teams": [
+        "qa",
+        "marketing",
+        "design",
+        "product",
+        "tech"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Keaton Welch",
+      "userName": "keaton74",
+      "avatar": "https://i.pravatar.cc/150?u=keatonwelch",
+      "isActive": false,
+      "role": "Marketing Manager",
+      "email": "keaton.welch@untitled.ui",
+      "teams": [
+        "design",
+        "marketing",
+        "rnd",
+        "qa"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Lloyd Macejkovic",
+      "userName": "lloyd_macejkovic92",
+      "avatar": "https://i.pravatar.cc/150?u=lloydmacejkovic",
+      "isActive": false,
+      "role": "Data Scientist",
+      "email": "lloyd.macejkovic@untitled.ui",
+      "teams": [
+        "qa",
+        "rnd",
+        "tech"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Arlene Lowe",
+      "userName": "arlene75",
+      "avatar": "https://i.pravatar.cc/150?u=arlenelowe",
+      "isActive": true,
+      "role": "Data Scientist",
+      "email": "arlene.lowe33@untitled.ui",
+      "teams": [
+        "qa",
+        "design",
+        "product",
+        "tech",
+        "marketing"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Hope Nicolas",
+      "userName": "hope95",
+      "avatar": "https://i.pravatar.cc/150?u=hopenicolas",
+      "isActive": true,
+      "role": "Marketing Manager",
+      "email": "hope37@untitled.ui",
+      "teams": [
+        "product",
+        "rnd",
+        "design",
+        "marketing"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Sterling Hodkiewicz",
+      "userName": "sterling.hodkiewicz40",
+      "avatar": "https://i.pravatar.cc/150?u=sterlinghodkiewicz",
+      "isActive": true,
+      "role": "Frontend Developer",
+      "email": "sterling_hodkiewicz44@untitled.ui",
+      "teams": [
+        "product"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Dannie Pacocha",
+      "userName": "dannie.pacocha",
+      "avatar": "https://i.pravatar.cc/150?u=danniepacocha",
+      "isActive": true,
+      "role": "Product Manager",
+      "email": "dannie_pacocha@untitled.ui",
+      "teams": [
+        "design",
+        "tech",
+        "rnd"
+      ]
+    },
+    {
       "id": 7,
       "name": "Hazle Beer DDS",
       "userName": "hazle56",
