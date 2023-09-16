@@ -17,8 +17,11 @@ const Admin = () => {
     };
 
     const deleteUser = async (id) => {
-        await axios.delete(`http://localhost:3002/users/${id}`);
-        loadUsers();
+        // await axios.delete(`http://localhost:3002/users/${id}`);
+        // loadUsers();
+        const updatedRecords = data.filter(record => record.id !== id);
+        setData(updatedRecords);
+        setSelectedIds([]);
     };
 
     useEffect(() => {

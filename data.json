@@ -17,35 +17,6 @@
       ]
     },
     {
-      "id": 1,
-      "name": "Keaton Welch",
-      "userName": "keaton74",
-      "avatar": "https://i.pravatar.cc/150?u=keatonwelch",
-      "isActive": false,
-      "role": "Marketing Manager",
-      "email": "keaton.welch@untitled.ui",
-      "teams": [
-        "design",
-        "marketing",
-        "rnd",
-        "qa"
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Lloyd Macejkovic",
-      "userName": "lloyd_macejkovic92",
-      "avatar": "https://i.pravatar.cc/150?u=lloydmacejkovic",
-      "isActive": false,
-      "role": "Data Scientist",
-      "email": "lloyd.macejkovic@untitled.ui",
-      "teams": [
-        "qa",
-        "rnd",
-        "tech"
-      ]
-    },
-    {
       "id": 3,
       "name": "Arlene Lowe",
       "userName": "arlene75",
@@ -100,37 +71,6 @@
         "design",
         "tech",
         "rnd"
-      ]
-    },
-    {
-      "id": 7,
-      "name": "Hazle Beer DDS",
-      "userName": "hazle56",
-      "avatar": "https://i.pravatar.cc/150?u=hazlebeer",
-      "isActive": false,
-      "role": "Product Manager",
-      "email": "hazle53@untitled.ui",
-      "teams": [
-        "qa",
-        "tech",
-        "design",
-        "rnd",
-        "product"
-      ]
-    },
-    {
-      "id": 8,
-      "name": "Jannie Larson",
-      "userName": "jannie.larson56",
-      "avatar": "https://i.pravatar.cc/150?u=jannielarson",
-      "isActive": false,
-      "role": "UX Researcher",
-      "email": "jannie.larson39@untitled.ui",
-      "teams": [
-        "tech",
-        "rnd",
-        "product",
-        "marketing"
       ]
     },
     {
