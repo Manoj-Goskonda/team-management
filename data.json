@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": 7,
+      "name": "Hazle Beer DDS",
+      "userName": "hazle56",
+      "avatar": "https://i.pravatar.cc/150?u=hazlebeer",
+      "isActive": false,
+      "role": "Product Manager",
+      "email": "hazle53@untitled.ui",
+      "teams": [
+        "qa",
+        "tech",
+        "design",
+        "rnd",
+        "product"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Jannie Larson",
+      "userName": "jannie.larson56",
+      "avatar": "https://i.pravatar.cc/150?u=jannielarson",
+      "isActive": false,
+      "role": "UX Researcher",
+      "email": "jannie.larson39@untitled.ui",
+      "teams": [
+        "tech",
+        "rnd",
+        "product",
+        "marketing"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Miss Dexter Littel",
+      "userName": "dexter.littel61",
+      "avatar": "https://i.pravatar.cc/150?u=dexterlittel",
+      "isActive": true,
+      "role": "UX Researcher",
+      "email": "dexter13@untitled.ui",
+      "teams": [
+        "design",
+        "tech",
+        "qa",
+        "rnd",
+        "product"
+      ]
+    }
+  ]
+}
