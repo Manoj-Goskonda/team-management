@@ -119,6 +119,21 @@
       ]
     },
     {
+      "id": 8,
+      "name": "Jannie Larson",
+      "userName": "jannie.larson56",
+      "avatar": "https://i.pravatar.cc/150?u=jannielarson",
+      "isActive": false,
+      "role": "UX Researcher",
+      "email": "jannie.larson39@untitled.ui",
+      "teams": [
+        "tech",
+        "rnd",
+        "product",
+        "marketing"
+      ]
+    },
+    {
       "id": 9,
       "name": "Miss Dexter Littel",
       "userName": "dexter.littel61",
